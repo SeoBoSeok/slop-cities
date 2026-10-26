@@ -4,8 +4,50 @@ A curated list of **slop cities**: browser city simulations in the spirit of [mr
 
 > Slop New York is a New York City simulation built with three.js, WebGPURenderer and TSL. Explore Manhattan on foot, by car, by bicycle, or by helicopter. "Fork it, remix it, improve it, break it."
 
+## Featured
+
+<table>
+  <tr>
+    <td colspan="3" align="center">
+      <a href="https://mrdoob.github.io/slop-newyork/"><img src="screenshots/newyork.jpg" width="640" alt="Slop New York: a yellow taxi on Park Avenue at East 36th Street"></a><br>
+      <b><a href="https://mrdoob.github.io/slop-newyork/">New York</a></b> (the original) · <a href="https://x.com/mrdoob/status/2113177383658561721">@mrdoob</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://abujatour.site/"><img src="screenshots/abuja.jpg" alt="Abuja Tour title card over a 3D render of Abuja and Aso Rock"></a><br>
+      <b><a href="https://abujatour.site/">Abuja</a></b> · <a href="https://x.com/0xkodesage/status/2113449044206920085">@0xkodesage</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://nelsonchris1.github.io/london-loop/"><img src="screenshots/london.jpg" alt="London Loop: driving a red double-decker bus on a shift"></a><br>
+      <b><a href="https://nelsonchris1.github.io/london-loop/">London</a></b> · <a href="https://x.com/Nelson_christof/status/2113986000112296170">@Nelson_christof</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://slop-toronto.cloud6711.workers.dev/explore"><img src="screenshots/toronto.jpg" alt="Toronto skyline and CN Tower at golden hour from the lake"></a><br>
+      <b><a href="https://slop-toronto.cloud6711.workers.dev/explore">Toronto</a></b> · <a href="https://x.com/johnfewell/status/2114053187946545313">@johnfewell</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://tinywarsaw.app/"><img src="screenshots/warsaw.jpg" alt="Tiny Warsaw: low-poly central Warsaw with the Palace of Culture"></a><br>
+      <b><a href="https://tinywarsaw.app/">Warsaw</a></b> · <a href="https://x.com/OrestesGaolin/status/2114423799382679687">@OrestesGaolin</a>
+    </td>
+    <td align="center">
+      <a href="https://www.aaronjcunningham.com/play/berlin"><img src="screenshots/berlin.jpg" alt="Berlin Driving Simulator: a taxi at the Brandenburg Gate at blue hour"></a><br>
+      <b><a href="https://www.aaronjcunningham.com/play/berlin">Berlin</a></b> · <a href="https://x.com/Aaron_1337/status/2113969912158847343">@Aaron_1337</a>
+    </td>
+    <td align="center">
+      <a href="https://zz85.github.io/slop-singapore/"><img src="screenshots/singapore.jpg" alt="Slop Singapore: helicopter over Marina Bay at golden hour"></a><br>
+      <b><a href="https://zz85.github.io/slop-singapore/">Singapore</a></b> · <a href="https://x.com/BlurSpline/status/2114222434425745531">@BlurSpline</a>
+    </td>
+  </tr>
+</table>
+
+<sub>Screenshots are from each author's announcement tweet.</sub>
+
 ## Contents
 
+- [Featured](#featured)
 - [The original](#the-original)
 - [Cities](#cities)
 - [New York remixes](#new-york-remixes)
@@ -22,7 +64,7 @@ Entries marked *(source only)* have no live demo yet; clone and serve locally.
 
 ### Africa
 
-- **Abuja, Nigeria** - [Play](https://abujatour.site/) · [Tweet](https://x.com/0xkodesage/status/2113449582218690738) - by [@0xkodesage](https://x.com/0xkodesage). Nigeria's capital.
+- **Abuja, Nigeria** - [Play](https://abujatour.site/) · [Tweet](https://x.com/0xkodesage/status/2113449044206920085) - by [@0xkodesage](https://x.com/0xkodesage). Nigeria's capital.
 - **Kaduna, Nigeria** - [Play](https://kaduna-need-for-speed.vercel.app) · [Source](https://github.com/Akay-mighty/Kaduna-need-for-speed-) - by [Akay-mighty](https://github.com/Akay-mighty). Kaduna Need for Speed: a Cybertruck around a low-poly Kaduna circuit, borrowing Slop New York's car physics and chase camera.
 
 ### Asia
